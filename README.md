@@ -5,7 +5,7 @@ TITLE: GA DSI07 Project 4: WEB SCRAPING JOB POSTINGS by Chua Chin Hon
 
 SUMMARY: This is my fourth assigned project at General Assembly (Singapore), as part of a 12-week Data Science Immersive course. The project involves scrapping for jobs data on a government jobs bank, and using the data to analyse salary trends and to see if they are predictive of high pay.
 
-I also published a Medium post on my findings: https://medium.com/@chinhonchua/10-charts-to-guide-your-search-for-a-data-science-job-in-singapore-e4e3be9f1135
+I've also published a Medium post on my findings: https://medium.com/@chinhonchua/10-charts-to-guide-your-search-for-a-data-science-job-in-singapore-e4e3be9f1135
 
 My answers for the project are in the following files in the notebooks folder:
 
